@@ -1,4 +1,4 @@
-# Hi, I'm VicardTim
+# Hi, I'm Adekusibe Timilehin Victor
 
 - 👋 Hi, I’m @VicardTim
 - 👀 I’m interested in cybersecurity, mechanical engineering, and emerging technologies.
