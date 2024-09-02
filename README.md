@@ -1,8 +1,9 @@
 # Hello, I'm Adekusibe Timilehin Victor
 <a href="https://www.linkedin.com/in/timilehin-adekusibe-920649316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://drive.google.com/drive/folders/12lZo1FrKTeERD6kbGwsSEbUYPLx0QrCp"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=document&logoColor=white"></a> <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
-</a> <a href="https://example.com"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=phone&logoColor=white"></a><a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a> 
+<a href="https://https://drive.google.com/file/d/12LQ3B5SSBewwve9ysvRgK-l_cmccFmSn/view?usp=drivesdk"><img alt="CV" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=document&logoColor=white"></a>
+<a href="mailto:vicardadekusibe@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" /></a>
+<a href="https://example.com"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=phone&logoColor=white"></a>
+<a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a> 
 
 ## Brief Introduction
 
