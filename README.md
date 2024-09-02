@@ -71,7 +71,9 @@ My goal is to leverage my expertise in IT systems, risk management, and governan
 <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
 <a href="https://www.google.com/"><img alt="Google" src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"></a>
 <a href="https://www.microsoft.com/"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-q Educational Reference
+
+
+## [Educational Reference]
 <a href="https://eksu.edu.ng" target="_blank">
     <img src="https://img.shields.io/badge/-Ekiti%20State%20University-004990?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Ekiti State University" />
 </a>
