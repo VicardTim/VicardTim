@@ -2,8 +2,9 @@
 <a href="https://www.linkedin.com/in/timilehin-adekusibe-920649316" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/12LQ3B5SSBewwve9ysvRgK-l_cmccFmSn/view?usp=drivesdk" target="_blank"><img alt="CV" src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=document&logoColor=white"></a>
 <a href="mailto:vicardadekusibe@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" /></a>
-<a href="https://example.com"><img alt="Contact Me" src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=phone&logoColor=white"></a>
-<a href="https://example.com"><img alt="Profile Snapshot" src="https://img.shields.io/badge/Profile_Snapshot-000000?style=for-the-badge&logo=profile&logoColor=white"></a> 
+<a href="https://www.canva.com/design/DAGJZmGJlOQ/tsFqZZhpcAMhZ_3AGd1B4Q/view?utm_content=DAGJZmGJlOQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img alt="Slide Presentation" src="https://img.shields.io/badge/Slide_Presentation-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
+<a href="https://vicardtim.carrd.co" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
+<a href="tel:08147208549"><img alt="Contact Number" src="https://img.shields.io/badge/Contact_Number-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
 
 ## Brief Introduction
 
