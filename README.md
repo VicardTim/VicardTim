@@ -36,27 +36,10 @@ Certified cybersecurity professional with a background ni mechanical engineering
 <a href="https://example.com"><img alt="Compliance Framework" src="https://img.shields.io/badge/Compliance_Framework-000000?style=for-the-badge&logo=windows&logoColor=white"></a> | `PCI DCS` ` SOC 2` `NIST/NISP` `FISMA` `SOX`|
 <a href="https://example.com"><img alt="Languages" src="https://img.shields.io/badge/Languages-000000?style=for-the-badge&logo=microsoft&logoColor=white"></a> | `English` `Spanish` |
 
-## [Professional Tools](https://drive.google.com/drive/folders/12ll_LogXoucNwgL8MZpLs-QA8eJBty4h)
-  <a href="https://github.com/Rahul0860/testRepo/tree/main"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=Wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
-<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://docs.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
-<a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></a>
-<a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+## Professional Tools
 <a href="https://www.microsoft.com/microsoft-365/"><img alt="Microsoft 365" src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="https://www.microsoft.com/sharepoint/"><img alt="SharePoint" src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"></a>
-<a href="https://www.atlassian.com/software/jira"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
-<a href="https://www.atlassian.com/software/confluence"><img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"></a>
 <a href="https://slack.com/"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
-<a href="https://www.tenable.com/products/nessus"><img alt="Nessus" src="https://img.shields.io/badge/Nessus-00A1F1?style=for-the-badge&logo=tenable&logoColor=white"></a>
-<a href="https://www.splunk.com/"><img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"></a>
-<a href="https://www.wireshark.org/"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=black&labelColor=%23ADD8E6&color=%2399CCFF"></a>
-<a href="https://www.sentinelone.com/"><img alt="SentinelOne" src="https://img.shields.io/badge/SentinelOne-5B0E97?style=for-the-badge&logo=sentinelone&logoColor=white"></a>
-<a href="https://powerplatform.microsoft.com/"><img alt="Microsoft Power Platform" src="https://img.shields.io/badge/Microsoft%20Power%20Platform-742774?style=for-the-badge&logo=microsoft%20power%20platform&logoColor=white"></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
-<a href="https://www.servicenow.com/"><img alt="ServiceNow" src="https://img.shields.io/badge/ServiceNow-0BAE64?style=for-the-badge&logo=servicenow&logoColor=white"></a>
-<a href="https://docs.microsoft.com/en-us/windows-server/identity/active-directory-domain-services"><img alt="Active Directory" src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="https://azure.microsoft.com/"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-<a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://www.kali.org/"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
 <a href="https://www.apple.com/macos/"><img alt="macOS" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 <a href="https://www.apple.com/ios/"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
@@ -71,12 +54,13 @@ Certified cybersecurity professional with a background ni mechanical engineering
 <a href="https://www.microsoft.com/"><img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 
 
-## [Educational Reference]
+## Educational Reference
+B.Eng. Mechanical Engineering
 <a href="https://eksu.edu.ng" target="_blank">
     <img src="https://img.shields.io/badge/-Ekiti%20State%20University-004990?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Ekiti State University" />
 </a>
 
-B.S. Organizational Leadership and Learning
+
 <a href="https://louisville.edu" target="_blank">
     <img src="https://img.shields.io/badge/-University%20of%20Louisville%20%7C%20Magna%20Cum%20Laude-D41E3A?&style=for-the-badge&logo=university&logoColor=white" alt="University of Louisville | Magna Cum Laude" />
 </a>
