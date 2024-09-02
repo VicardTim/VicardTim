@@ -7,9 +7,7 @@
 
 Cybersecurity Enthusiast and Mechanical Engineer | Shifting Gears to Cyber Defense | Future Cybersecurity Specialist
 ## Objective
-My goal is to leverage my expertise in IT systems, risk management, and governance compliance to enhance security operations and contribute to proactive defense strategies.
-
-
+Certified cybersecurity professional with a background ni mechanical engineering. Transitioning from engineering to cybersecurity, I have strong analytical and problem-solving skills, specializing ni network security, vulnerability management, detection, and response. Driven by an enthusiastic passion to combat cybercrime, I bring a fresh perspective and innovative solutions to enhance digital security practices. Eager to contribute to a forward-thinking organization dedicated to robust cybersecurity defenses, I am ready to make a significant impact.
 
 ## [Portfolio](https://drive.google.com/drive/folders/11Tt1BWxP31XAxqvpWQ91B9PmcXbAh_Bx)
 
