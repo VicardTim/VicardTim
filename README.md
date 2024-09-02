@@ -4,7 +4,7 @@
 <a href="mailto:vicardadekusibe@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" /></a>
 <a href="https://www.canva.com/design/DAGJZmGJlOQ/tsFqZZhpcAMhZ_3AGd1B4Q/view?utm_content=DAGJZmGJlOQ&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank"><img alt="Slide Presentation" src="https://img.shields.io/badge/Slide_Presentation-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
 <a href="https://vicardtim.carrd.co" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=profile&logoColor=white"></a>
-<a href="tel:08147208549"><img src="https://img.shields.io/badge/-Contact Number-D14836?&style=for-the-badge&logo=phone&logoColor=white" alt="Call 08147208549" /></a>
+<a href="tel:08147208549"><img src="https://img.shields.io/badge/-Contact%20Number-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Contact Number" /></a>
 
 ## Brief Introduction
 
